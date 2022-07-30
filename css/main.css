@@ -1,0 +1,11 @@
+#main {
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  image-orientation: center;
+  border-radius: 50px;
+}
+
+p {
+  font-size: 20px;
+}

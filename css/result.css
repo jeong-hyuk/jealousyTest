@@ -1,0 +1,16 @@
+#result {
+  display: none;
+  background-color: whitesmoke;
+  width: 80%;
+  text-align: center;
+  image-orientation: center;
+  border-radius: 20px;
+}
+
+.resultname {
+  font-size: 26px;
+}
+
+.resultDesc {
+  font-size: 20px;
+}
