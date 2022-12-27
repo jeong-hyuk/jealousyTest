@@ -112,7 +112,7 @@ const qnaList = [
         type: [0],
       },
       {
-        answer: "b. 어 가 나도 헌포 갈게 ^^",
+        answer: "b. 미친거 아니야?",
         type: [1],
       },
     ],
