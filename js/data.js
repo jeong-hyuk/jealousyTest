@@ -125,7 +125,7 @@ const qnaList = [
         type: [0],
       },
       {
-        answer: "b. 집 찾아가서 부순다",
+        answer: "b. 그냥 헤어진다.",
         type: [1],
       },
     ],
